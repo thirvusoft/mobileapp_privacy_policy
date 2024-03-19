@@ -30,9 +30,19 @@ We may employ third-party companies and individuals due to the following reasons
 * To assist us in analyzing how our Service is used.  
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
+## SMS OTP Service
+Our mobile app provides the functionality of sending a one-time password (OTP) to your registered mobile number for the purpose of securely changing your password. By utilizing this service, you agree to the following:
+The OTP sent to your mobile device is solely for the purpose of authenticating password changes initiated by you.
+We do not store your OTP on our servers once it has been sent and utilized for its intended purpose.
+The OTP is sent via SMS to the mobile number associated with your account and is not shared with any third parties.
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+
+## Auto-Read OTP Feature
+To enhance user experience, our mobile app offers the convenience of automatically reading the OTP sent via SMS on your mobile device. By enabling this feature, you acknowledge the following:
+The auto-read OTP feature accesses incoming SMS messages solely to retrieve the OTP for password change requests initiated within the app.
+We do not access or retrieve any SMS content other than the OTP required for authentication purposes.
+Your privacy and security are paramount, and the auto-read OTP feature operates in compliance with our established privacy policy.
 
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
