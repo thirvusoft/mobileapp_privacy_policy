@@ -37,6 +37,8 @@ We do not store your OTP on our servers once it has been sent and utilized for i
 The OTP is sent via SMS to the mobile number associated with your account and is not shared with any third parties.
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+## User Data
+We, value your privacy and are committed to protecting your personal information. When you use our mobile application ("App"), we collect only your username and password to facilitate your access to our services. We do not share this information with third parties unless required by law. Your data is securely stored and only used for authentication purposes. By using our App, you consent to the collection and use of your username and password as described in this policy. If you have any concerns or questions, please contact us.
 
 ## Auto-Read OTP Feature
 To enhance user experience, our mobile app offers the convenience of automatically reading the OTP sent via SMS on your mobile device. By enabling this feature, you acknowledge the following:
