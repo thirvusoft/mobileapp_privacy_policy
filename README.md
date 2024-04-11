@@ -11,9 +11,29 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
+### Data Sharing
+We may share your personal information with third-party service providers to facilitate our services, provide service-related assistance, or analyze usage patterns. These third-party entities are contractually obligated to use your information solely for the purposes specified by us and are prohibited from disclosing or using it for any other purposes.
+
+### Data Retention and Deletion
+We retain your personal information only for as long as necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law. Once your information is no longer needed, we will securely delete or anonymize it to prevent unauthorized access.
+
+### Opt-Out Mechanism
+You have the option to opt-out of certain data collection and processing activities by adjusting your device settings or contacting us directly. However, please be aware that opting out may limit your access to certain features or functionalities of our service.
+
+### Compliance with Legal Obligations
+We may disclose your personal information when required to comply with applicable laws, regulations, legal processes, or governmental requests. We will notify you of such disclosures unless prohibited by law or court order.
+
+### Updates to Privacy Policy
+We reserve the right to update or modify this privacy policy at any time without prior notice. Any changes will be effective immediately upon posting the revised policy on our website or within the app. We encourage you to review this policy periodically for updates.
+
+### Consent
+By using our service, you consent to the collection, processing, and sharing of your personal information as described in this privacy policy. If you do not agree with any aspect of this policy, please refrain from using our service.
+
+### Feedback and Inquiries
+If you have any questions, concerns, or feedback regarding our privacy practices or this policy, please contact us using the provided contact information. We welcome your inquiries and will endeavor to address them promptly and transparently.
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
-
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information  
