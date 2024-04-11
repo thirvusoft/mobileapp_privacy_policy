@@ -1,4 +1,4 @@
-# Privacy Policy  
+# Privacy Policy For Mobile App
 ----------------
 
 ### Introduction  
