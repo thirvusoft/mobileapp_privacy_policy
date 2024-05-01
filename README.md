@@ -13,6 +13,16 @@ We do not collect any personally identifiable information or sensitive user data
 ### Data Sharing
 We may share your personal information with third-party service providers to facilitate our services, provide service-related assistance, or analyze usage patterns. These third-party entities are contractually obligated to use your information solely for the purposes specified by us and are prohibited from disclosing or using it for any other purposes.
 
+### Data Collection:
+1.1 Non-Personal Data:
+Our application does not collect or access any personal or sensitive user data. We are committed to transparency and trust with our users and uphold the highest standards of data protection.
+
+1.2 Transparency and Trust:
+While we do not collect any user data, we recognize the importance of privacy. Therefore, this privacy policy serves to inform users about our data practices, even though no personal or sensitive user data is collected or accessed.
+
+2. Contact Information:
+If you have any questions or concerns regarding our privacy policy or data practices, please contact us at dev@thirvusoft.com. We value your privacy and will address any inquiries promptly.
+
 ### Data Retention and Deletion
 We retain your personal information only for as long as necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law. Once your information is no longer needed, we will securely delete or anonymize it to prevent unauthorized access.
 
