@@ -13,7 +13,7 @@ We do not collect any personally identifiable information or sensitive user data
 ### Data Sharing
 We may share your personal information with third-party service providers to facilitate our services, provide service-related assistance, or analyze usage patterns. These third-party entities are contractually obligated to use your information solely for the purposes specified by us and are prohibited from disclosing or using it for any other purposes.
 
-### Data Collection:
+### User Data Collection
 1.1 Non-Personal Data:
 Our application does not collect or access any personal or sensitive user data. We are committed to transparency and trust with our users and uphold the highest standards of data protection.
 
