@@ -66,12 +66,6 @@ We value your trust in providing us your Personal Information, thus we are striv
 ## User Data
 We, value your privacy and are committed to protecting your personal information. When you use our mobile application ("App"), we collect only your username and password to facilitate your access to our services. We do not share this information with third parties unless required by law. Your data is securely stored and only used for authentication purposes. By using our App, you consent to the collection and use of your username and password as described in this policy. If you have any concerns or questions, please contact us.
 
-## Auto-Read OTP Feature
-To enhance user experience, our mobile app offers the convenience of automatically reading the OTP sent via SMS on your mobile device. By enabling this feature, you acknowledge the following:
-The auto-read OTP feature accesses incoming SMS messages solely to retrieve the OTP for password change requests initiated within the app.
-We do not access or retrieve any SMS content other than the OTP required for authentication purposes.
-Your privacy and security are paramount, and the auto-read OTP feature operates in compliance with our established privacy policy.
-
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
