@@ -8,7 +8,7 @@ Our privacy policy will help you understand what information we collect at the M
 We do not collect any personally identifiable information or sensitive user data through the use of our App. The app does use third party services that may collect information used to identify you. 
 
 ### Data Sharing
-We may share your personal information with third-party service providers to facilitate our services, provide service-related assistance, or analyze usage patterns. These third-party entities are contractually obligated to use your information solely for the purposes specified by us and are prohibited from disclosing or using it for any other purposes.
+We do not share your personal information with any third-party service providers. Your information is kept strictly confidential and is used solely for providing and improving our services.
 
 ### User Data Collection
 1.1 Non-Personal Data:
