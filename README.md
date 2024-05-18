@@ -2,7 +2,7 @@
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at the Mobile app, how we use it, and what choices you have. The Mobile app, built for customers, is provided as a free service by the Mobile app. This service is provided at no cost and is intended for use as is. If you choose to use our service, you agree to the collection and use of information in relation to this policy. The personal information that we collect is used for providing and improving the service. We will not use or share your information with anyone except as described in this privacy policy. The terms used in this privacy policy have the same meanings as those in our Terms and Conditions, accessible on our website, unless otherwise defined in this privacy policy.
+Our privacy policy will help you understand what information we collect at the Mobile app, how we use it, and what choices you have. The Mobile app, built for customers, is provided as a free service by the Mobile app. This service is provided at no cost and is intended for use as is. If you choose to use our service, you agree to the collection and use of information in relation to this policy.We will not use or share your information with anyone except as described in this privacy policy. The terms used in this privacy policy have the same meanings as those in our Terms and Conditions, accessible on our website, unless otherwise defined in this privacy policy.
 
 ### Information Collection and Use  
 We do not collect any personally identifiable information or sensitive user data through the use of our App. The app does use third party services that may collect information used to identify you. 
